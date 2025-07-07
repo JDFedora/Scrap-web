@@ -1,21 +1,121 @@
 ,Ruta,Nombres
-0,Américas,Américas                        Portal Américas - Maluma                    S            | 10:50 PM            - 12:00 AM
-1,B10,B10                        Portal de la 80 - Portal del Norte                    L-V            | 04:30 AM            - 09:30 PM S            | 05:30 AM            - 09:30 PM D-F            | 06:30 AM            - 08:00 PM
-2,B11,B11                        Portal Sur - JFK Coop.Financiera - Terminal                    L-V            | 05:30 AM            - 09:00 PM S            | 06:00 AM            - 09:30 PM
-3,B12,B12                        Portal Sur - JFK Coop.Financiera - Portal Norte                    L-S            | 04:30 AM            - 11:30 PM D-F            | 04:00 AM            - 10:30 PM
-4,B13,B13                        Portal Tunal - Portal Norte                    L-V            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 09:30 PM
-5,B16,B16                        Portal Eldorado - Terminal                    L-V            | 05:30 AM            - 10:30 PM S            | 05:30 AM            - 10:00 PM
-6,B18,B18                        Portal 20 de Julio - Terminal                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
-7,B23,B23                        Portal Eldorado - Alcalá                    L-V            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 10:00 PM
-8,B26,B26                        Portal Américas - Alcalá                    L-S            | 04:30 AM            - 09:00 AM
-9,B27,B27                        Portal Tunal - Portal  Norte                    L-V            | 05:00 AM            - 09:00 AM L-V            | 04:00 PM            - 08:00 PM
-10,B28,B28                        Portal Américas - Portal Norte                    L-S            | 04:00 AM            - 08:00 PM
-11,B46,B46                        San Mateo - C.C. Unisur - Portal Norte                    L-S            | 04:00 AM            - 09:00 AM L-S            | 03:00 PM            - 08:00 PM
-12,B50,B50                        Portal Suba - Calle 161                    L-V            | 06:00 AM            - 08:30 AM
-13,B55,B55                        Portal de la 80 - Toberín - Foundever                    L-V            | 05:00 AM            - 08:30 AM
-14,B72,B72                        Portal Usme - Toberín Foundever                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:00 AM            - 08:00 PM
-15,B74,B74                        Las Aguas - Centro Colombo Americano - Portal Norte                    L-V            | 06:00 AM            - 10:30 PM S            | 07:00 AM            - 08:30 PM
-16,B75,B75                        Portal Usme - Portal Norte                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
-17,C15,C15                        Portal Tunal - Portal Suba                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
-18,C17,C17                        Portal Usme - Portal Suba                    L-V            | 04:00 AM            - 08:00 PM S            | 04:00 AM            - 03:00 PM
-19,C19,C19                        Banderas - Portal  Suba                    L-S            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 10:00 PM
+0,1,1                        Universidades - Portal Eldorado                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+1,1,1                        Portal Eldorado - Universidades                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+2,2,2                        Museo Nacional -  Portal 20 de Julio                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+3,2,2                         Portal 20 de Julio - Museo Nacional                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+4,3,3                        Corferias - Portal Tunal                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+5,3,3                        Portal Tunal - Corferias                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+6,4,4                        Portal Sur - JFK Coop.Financiera - Héroes                     L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+7,4,4                        Héroes - Portal Sur - JFK Coop.Financiera                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+8,5,5                         Portal Américas - Calle 22                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+9,5,5                        Calle 22 - Portal Américas                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+10,6,6                        Portal de la 80 - Universidades                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+11,6,6                         Universidades - CityU - Portal de la 80                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+12,7,7                        Portal Suba - Polo - FINCOMERCIO                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+13,7,7                        Polo - FINCOMERCIO - Portal Suba                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+14,8,8                        Terminal - Guatoque Veraguas                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+15,8,8                        Guatoque Veraguas - Terminal                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+16,20,20 d Julio                        20 de Julio - Maluma                    S            | 10:50 PM            - 12:00 AM
+17,A52,A52                        Portal Sur - JFK Coop.Financiera - Flores - Área Andina                    L-V            | 05:00 AM            - 08:30 AM
+18,A60,A60                        Portal Américas - Calle 76                    L-S            | 04:30 AM            - 09:30 PM D-F            | 04:00 AM            - 10:00 PM
+19,A61,A61                        Portal Américas - Polo - FiNCOMERCIO                    L-V            | 04:30 AM            - 09:00 AM
+20,Américas,Américas                        Portal Américas - Maluma                    S            | 10:50 PM            - 12:00 AM
+21,B10,B10                        Portal de la 80 - Portal del Norte                    L-V            | 04:30 AM            - 09:30 PM S            | 05:30 AM            - 09:30 PM D-F            | 06:30 AM            - 08:00 PM
+22,B11,B11                        Portal Sur - JFK Coop.Financiera - Terminal                    L-V            | 05:30 AM            - 09:00 PM S            | 06:00 AM            - 09:30 PM
+23,B12,B12                        Portal Sur - JFK Coop.Financiera - Portal Norte                    L-S            | 04:30 AM            - 11:30 PM D-F            | 04:00 AM            - 10:30 PM
+24,B13,B13                        Portal Tunal - Portal Norte                    L-V            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 09:30 PM
+25,B16,B16                        Portal Eldorado - Terminal                    L-V            | 05:30 AM            - 10:30 PM S            | 05:30 AM            - 10:00 PM
+26,B18,B18                        Portal 20 de Julio - Terminal                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+27,B23,B23                        Portal Eldorado - Alcalá                    L-V            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 10:00 PM
+28,B26,B26                        Portal Américas - Alcalá                    L-S            | 04:30 AM            - 09:00 AM
+29,B27,B27                        Portal Tunal - Portal  Norte                    L-V            | 05:00 AM            - 09:00 AM L-V            | 04:00 PM            - 08:00 PM
+30,B28,B28                        Portal Américas - Portal Norte                    L-S            | 04:00 AM            - 08:00 PM
+31,B46,B46                        San Mateo - C.C. Unisur - Portal Norte                    L-S            | 04:00 AM            - 09:00 AM L-S            | 03:00 PM            - 08:00 PM
+32,B50,B50                        Portal Suba - Calle 161                    L-V            | 06:00 AM            - 08:30 AM
+33,B55,B55                        Portal de la 80 - Toberín - Foundever                    L-V            | 05:00 AM            - 08:30 AM
+34,B72,B72                        Portal Usme - Toberín Foundever                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:00 AM            - 08:00 PM
+35,B74,B74                        Las Aguas - Centro Colombo Americano - Portal Norte                    L-V            | 06:00 AM            - 10:30 PM S            | 07:00 AM            - 08:30 PM
+36,B75,B75                        Portal Usme - Portal Norte                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+37,C15,C15                        Portal Tunal - Portal Suba                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+38,C17,C17                        Portal Usme - Portal Suba                    L-V            | 04:00 AM            - 08:00 PM S            | 04:00 AM            - 03:00 PM
+39,C19,C19                        Banderas - Portal  Suba                    L-S            | 05:00 AM            - 10:00 PM S            | 05:30 AM            - 10:00 PM
+40,C25,C25                        Portal 20 de Julio - Portal Suba                    L-V            | 04:30 AM            - 10:00 PM S            | 05:00 AM            - 08:00 PM D-F            | 04:30 AM            - 10:00 PM
+41,C30,C30                        Portal Sur - JFK Coop.Financiera - Portal Suba                    L-V            | 05:00 AM            - 09:00 AM L-V            | 03:00 PM            - 08:00 PM S            | 05:00 AM            - 03:00 PM
+42,C50,C50                        Calle 161 - Portal Suba                    L-V            | 04:30 PM            - 08:00 PM
+43,C73,C73                        Universidades - Portal Suba                    L-V            | 04:00 PM            - 10:30 PM
+44,C84,C84                        Bella Vista - ETB Tibabuyes                    L-S            | 06:00 AM            - 11:00 PM D-F            | 07:00 AM            - 10:00 PM
+45,Calle,Calle 80                        Portal 80 - Maluma                    S            | 10:50 PM            - 12:00 AM
+46,D10,D10                        Portal  del Norte - Portal de la 80                    L-V            | 05:00 AM            - 10:00 PM S            | 06:00 AM            - 10:00 PM D-F            | 06:30 AM            - 08:00 PM
+47,D20,D20                        Portal Usme - Portal de la 80                    L-V            | 05:00 AM            - 10:00 PM S            | 06:00 AM            - 08:00 PM
+48,D21,D21                        Portal Tunal - Portal de la 80                    L-S            | 04:00 AM            - 11:00 PM
+49,D22,D22                        Portal Sur - JFK Coop.Financiera - Portal de la 80                    L-S            | 04:30 AM            - 11:30 PM D-F            | 05:30 AM            - 10:30 PM
+50,D24,D24                        Universidades - Portal de la 80                    L-V            | 06:00 AM            - 11:00 PM S            | 06:00 AM            - 09:00 PM
+51,D55,D55                        Toberín - Foundever - Calle 80                    L-V            | 03:00 PM            - 08:00 PM
+52,D81,D81                        Portal 20 de Julio -  Barrio El Cortijo                    L-V            | 05:00 AM            - 11:00 PM S            | 05:00 AM            - 10:30 PM D-F            | 05:00 AM            - 10:00 PM
+53,D81,D81                        Portal 20 de Julio -  Barrio El Cortijo (Ciclovía)                    D-F            | 07:00 AM            - 02:00 PM
+54,E32,E32                        Portal de las Américas - NQS Calle 75 - Zona M                    L-V            | 04:00 AM            - 09:00 PM S            | 04:00 AM            - 08:00 PM D-F            | 05:00 AM            - 10:00 PM
+55,E42,E42                        San Mateo - C.C. Unisur - 7 de Agosto                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+56,Eldorado,Eldorado                        Portal Eldorado C.C. Nuestro Bogotá - Maluma                    S            | 10:50 PM            - 12:00 AM
+57,F19,F19                        Portal Suba - Banderas                    L-S            | 04:30 AM            - 10:00 PM
+58,F23,F23                        Las Aguas - Centro Colombo Americano - Portal de las Américas                    L-S            | 05:00 AM            - 11:00 PM D-F            | 05:30 AM            - 10:00 PM
+59,F26,F26                        Alcalá - Colegio S.Tomás Dominicos - Portal Américas                    L-V            | 03:00 PM            - 08:00 PM S            | 12:00 PM            - 06:00 PM
+60,F28,F28                        Portal Norte - Portal Américas                    L-S            | 05:00 AM            - 08:00 PM
+61,F32,F32                        NQS Calle 75 - Zona M - Portal de las Americas                    L-V            | 05:00 AM            - 10:00 PM S            | 05:00 AM            - 08:00 PM D-F            | 05:30 AM            - 10:00 PM
+62,F51,F51                        Museo Nacional - Portal de las Américas                    L-S            | 05:00 AM            - 11:00 PM
+63,F60,F60                        Calle 76 San Felipe - Portal Américas                    L-D            | 05:00 AM            - 10:00 PM
+64,F61,F61                        Polo FINCOMERCIO - Portal Américas                    L-V            | 03:00 PM            - 08:00 PM
+65,G11,G11                        Terminal - Portal Sur - JFK Coop.Financiera                    L-V            | 06:00 AM            - 10:00 PM S            | 06:30 AM            - 10:00 PM
+66,G12,G12                        Portal del Norte - Portal Sur - JFK Coop.Financiera                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+67,G22,G22                        Portal de la 80 - Portal Sur - JFK Coop.Financiera                    L-S            | 05:00 AM            - 11:00 PM D-F            | 05:30 AM            - 10:00 PM
+68,G30,G30                        Portal Suba - Portal Sur - JFK Coop.Financiera                    L-V            | 04:30 AM            - 09:00 AM L-V            | 03:00 PM            - 08:00 PM S            | 05:00 AM            - 03:00 PM
+69,G41,G41                        Bicentenario - San Mateo - C.C. Unisur                    L-V            | 05:00 AM            - 09:00 PM S            | 05:00 AM            - 09:00 PM
+70,G42,G42                        7 de Agosto - San Mateo -  C.C. Unisur                    L-V            | 04:30 AM            - 11:00 PM S            | 05:00 AM            - 11:00 PM D-F            | 05:00 AM            - 10:00 PM
+71,G43,G43                        Portal Eldorado - San Mateo -  C.C. Unisur                    L-S            | 05:00 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+72,G45,G45                        San Mateo -  C.C. Unisur - Portal del Sur                    L-S            | 05:00 AM            - 08:00 AM L-S            | 05:00 PM            - 08:00 PM
+73,G45,G45                        Portal Sur - JFK Coop.Financiera - San Mateo -  C.C. Unisur                    L-S            | 05:00 AM            - 08:00 AM L-S            | 05:00 PM            - 08:00 PM
+74,G46,G46                        Portal Norte - San Mateo - C.C. Unisur                    L-S            | 05:00 AM            - 09:00 AM L-S            | 03:00 PM            - 08:00 PM
+75,G47,G47                        Museo Nacional - Portal Sur - JFK Coop.Financiera                    L-V            | 04:30 AM            - 11:00 PM S            | 05:00 AM            - 11:00 PM D-F            | 05:30 AM            - 10:00 PM
+76,G52,G52                        Flores - Área Andina - Portal Sur - JFK Coop.Financiera                    L-V            | 04:00 PM            - 08:00 PM
+77,H13,H13                        Portal Norte - Portal Tunal                    L-V            | 05:30 AM            - 10:00 PM S            | 06:30 AM            - 10:00 PM
+78,H15,H15                        Portal Suba - Portal Tunal                    L-S            | 05:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+79,H17,H17                        Portal Suba - Portal Usme                    L-V            | 04:30 AM            - 08:00 PM S            | 05:00 AM            - 03:00 PM
+80,H20,H20                        Portal de la 80 - Portal Usme                    L-V            | 04:30 AM            - 10:00 PM S            | 05:00 AM            - 08:00 PM
+81,H21,H21                        Portal de la 80 - Portal Tunal                    L-S            | 04:30 AM            - 11:00 PM
+82,H27,H27                        Portal Norte - Portal Tunal                    L-V            | 06:00 AM            - 09:00 AM L-V            | 03:00 PM            - 08:00 PM
+83,H54,H54                        Portal Eldorado - Portal Usme                    L-S            | 05:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+84,H72,H72                        Toberín - Foundever - Portal Usme                    L-S            | 05:30 AM            - 11:00 PM D-F            | 05:00 AM            - 09:00 PM
+85,H75,H75                        Portal Norte - Portal Usme                    L-S            | 05:00 AM            - 11:00 PM D-F            | 05:30 AM            - 10:00 PM
+86,H76,H76                        Universidades - CityU - Portal Usme                     L-V            | 04:00 PM            - 10:30 PM
+87,H83,H83                        Museo Nacional - Usme Porvenir II                    L-V            | 05:00 AM            - 11:00 PM S            | 05:00 AM            - 10:30 PM D-F            | 05:00 AM            - 10:00 PM
+88,J23,J23                        Portal de las Américas - Las Aguas - C. Col Americano                    L-S            | 04:00 AM            - 11:00 PM D-F            | 05:00 AM            - 10:00 PM
+89,J24,J24                        Portal de la 80 - Universidades - CityU                    L-V            | 05:30 AM            - 10:15 PM S            | 05:30 AM            - 08:30 PM
+90,J70,J70                        Portal del Norte - Las aguas - Centro Colombo Americano                     L-V            | 05:30 AM            - 09:00 AM
+91,J73,J73                        Portal Suba - Universidades - CityU                    L-V            | 05:30 AM            - 09:00 AM
+92,J74,J74                        Portal Norte - Las Aguas - C. Col Americano                    L-V            | 05:30 AM            - 09:30 PM S            | 06:30 AM            - 08:30 PM
+93,J76,J76                         Portal Usme - Universidades - CityU                     L-V            | 05:00 AM            - 08:30 AM
+94,K10,K10                        Portal 20 de Julio - Portal  Eldorado                     L-S            | 04:00 AM            - 11:00 PM
+95,K16,K16                        Terminal - Portal Eldorado                    L-V            | 05:00 AM            - 10:30 PM S            | 05:30 AM            - 10:00 PM
+96,K23,K23                        Alcalá Col S. Tomás Dominico - Portal Eldorado                    L-S            | 05:30 AM            - 10:00 PM
+97,K43,K43                        San Mateo - C.C. Unisur - Portal Eldorado                    L-S            | 04:00 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+98,K54,K54                        Portal Usme - Portal Eldorado                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+99,K86,K86                        Fundación Santa Fe - Portal Eldorado                    L-S            | 05:30 AM            - 11:00 PM D-F            | 05:30 AM            - 10:00 PM
+100,K86,K86                        Fundación Santa Fe - Portal Eldorado (ciclovía)                    D-F            | 07:00 AM            - 02:00 PM
+101,L10,L10                        Portal Eldorado - Portal 20 de Julio                    L-S            | 05:00 AM            - 11:00 PM
+102,L18,L18                        Terminal - Portal 20 de Julio                    L-V            | 05:00 AM            - 11:00 PM S            | 05:30 AM            - 11:00 PM D-F            | 04:30 AM            - 10:00 PM
+103,L25,L25                        Portal Suba -  Portal 20 de Julio                    L-V            | 05:00 AM            - 10:00 PM S            | 05:00 AM            - 08:00 PM D-F            | 05:00 AM            - 10:00 PM
+104,L41,L41                        Bicentenario                    L-V            | 04:30 AM            - 09:00 PM S            | 04:30 AM            - 09:00 PM
+105,L81,L81                        Puente de Guadua - Portal 20 de Julio                    L-V            | 05:00 AM            - 11:00 PM S            | 05:30 AM            - 10:30 PM D-F            | 06:00 AM            - 09:30 PM
+106,L82,L82                        Portal 20 de Julio                    L-S            | 04:30 AM            - 10:00 PM D-F            | 05:00 AM            - 09:00 PM
+107,L82,L82                        Ginebra Norte - Portal 20 de Julio [Ciclovía]                    D-F            | 07:00 AM            - 02:00 AM
+108,M47,M47                        Portal Sur - JFK Coop.Financiera - Museo Nacional                    L-S            | 04:30 AM            - 11:00 PM D-F            | 04:00 AM            - 10:00 PM
+109,M51,M51                        Portal de las Américas - Museo Nacional                    L-S            | 04:30 AM            - 11:00 PM
+110,M82,M82                        Portal 20 de Julio - Clínica El Bosque                    L-S            | 04:00 AM            - 11:00 PM D-F            | 06:00 AM            - 10:00 PM
+111,M82,M82                        Portal 20 de Julio - Clínica El Bosque [Ciclovía]                    D-F            | 07:00 AM            - 02:00 PM
+112,M83,M83                        Usme Porvenir II - Museo Nacional                    L-V            | 04:30 AM            - 11:00 PM S            | 04:30 AM            - 10:30 PM D-F            | 04:30 AM            - 10:00 PM
+113,M84,M84                        ETB Tibabuyes - Br. Bellavista                    L-S            | 05:00 AM            - 11:00 PM D-F            | 06:00 AM            - 10:00 PM
+114,M84,M84                        ETB Tibabuyes - Museo Nacional (Ciclovía)                    D-F            | 07:00 AM            - 02:00 PM
+115,M86,M86                        Portal Eldorado Aeropuerto - Hacienda Santa Bárbara                    L-V            | 04:30 AM            - 10:05 PM S            | 04:30 AM            - 10:15 PM D-F            | 04:30 AM            - 09:15 PM
+116,M86,M86                        Portal Eldorado Aeropuerto - Hacienda Santa Bárbara ( Ciclovía) ( Domingos)                    D-F            | 07:00 AM            - 02:00 PM
+117,Norte,Norte                        Portal Norte - Maluma                    S            | 10:50 PM            - 12:00 AM
+118,Sur,Sur                        Portal Sur - Maluma                    S            | 10:50 PM            - 12:00 AM
+119,Usme,Usme                        Portal Usme - Maluma                    S            | 10:50 PM            - 12:00 AM
