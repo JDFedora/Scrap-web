@@ -22,9 +22,10 @@ with sync_playwright() as p:
     Num_paginas=soup.find_all("li",class_="paginate_button")
     Nombres_rutas=[]
     Indice_rutas=[]
+    Href_rutas=[]
     with open("texto.html","w", encoding="utf-8") as f:
         f.write(str(soup))
-    print(len(Num_paginas))
+    
     for i in range(2,len(Num_paginas)):# bucle para pasar por todas las paginas
         soup= bs4.BeautifulSoup(page.content(), "html.parser")     
         tabla=soup.find_all("tbody")
@@ -32,12 +33,15 @@ with sync_playwright() as p:
         for a in tabla[0].find_all("tr"):
             for row in a.find_all("td"):
                 Nombres_rutas.append(row.text.strip())
+                Href_rutas.append(row.find("a")["href"])  # Extrae el href de cada ruta
         try:
             page.get_by_role("link", name= f'{i}',exact=True).click()
         except:
             print("No se pudo hacer click en la pagina",i)
         page.expect_request_finished()
         page.wait_for_timeout(1200)
+
+
 
         
 
@@ -50,4 +54,4 @@ with sync_playwright() as p:
     df.to_csv('tabla.csv')
     browser.close()
     
-print("hello world")
+print("Finalizado")
